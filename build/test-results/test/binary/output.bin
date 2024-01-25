@@ -1,0 +1,193 @@
+[1;31m
+Start test 1[0m
+
+)  .   ____          _            __ _ _
+* /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
++( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+, \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
++  '  |____| .__|_| |_|_| |_\__, | / / / /
+* =========|_|==============|___/=/_/_/_/
+, :: Spring Boot ::                (v2.5.6)
+
+ä2022-02-10 16:58:24.814  INFO 5560 --- [    Test worker] platform.CodeSharingPlatform             : Starting CodeSharingPlatform using Java 17.0.1 on DESKTOP-CPPDJR8 with PID 5560 (started by qd017 in D:\Users\Java\Code Sharing Platform2\Code Sharing Platform\task)
+•2022-02-10 16:58:24.817  INFO 5560 --- [    Test worker] platform.CodeSharingPlatform             : No active profile set, falling back to default profiles: default
+ë2022-02-10 16:58:26.275  INFO 5560 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8889 (http)
+~2022-02-10 16:58:26.292  INFO 5560 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+î2022-02-10 16:58:26.293  INFO 5560 --- [    Test worker] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+ó2022-02-10 16:58:26.401  INFO 5560 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+§2022-02-10 16:58:26.401  INFO 5560 --- [    Test worker] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1520 ms
+ö2022-02-10 16:58:27.412  INFO 5560 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+†2022-02-10 16:58:27.461  INFO 5560 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8889 (http) with context path ''
+©2022-02-10 16:58:27.489  INFO 5560 --- [    Test worker] platform.CodeSharingPlatform             : Started CodeSharingPlatform in 3.057 seconds (JVM running for 3.881)
+û2022-02-10 16:58:27.879  INFO 5560 --- [nio-8889-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+ç2022-02-10 16:58:27.879  INFO 5560 --- [nio-8889-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+Ö2022-02-10 16:58:27.881  INFO 5560 --- [nio-8889-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+[1;31m
+Start test 2[0m
+Code:public static void ...
+[1;31m
+Start test 3[0m
+public static void ...
+2022-02-10
+[1;31m
+Start test 4[0m
+[1;31m
+Start test 5[0m
+1 public static void ...
+[1;31m
+Start test 6[0m
+[1;31m
+Start test 7[0m
+Code:class Code { ...
+[1;31m
+Start test 8[0m
+public static void ...
+2022-02-10
+[1;31m
+Start test 9[0m
+[1;31m
+Start test 10[0m
+class Code { ...
+2022-02-10
+[1;31m
+Start test 11[0m
+[1;31m
+Start test 12[0m
+1 public static void ...
+2 class Code { ...
+[1;31m
+Start test 13[0m
+[1;31m
+Start test 14[0m
+Code:Snippet #3
+[1;31m
+Start test 15[0m
+Code:Snippet #4
+[1;31m
+Start test 16[0m
+Code:Snippet #5
+[1;31m
+Start test 17[0m
+Code:Snippet #6
+[1;31m
+Start test 18[0m
+Code:Snippet #7
+[1;31m
+Start test 19[0m
+Code:Snippet #8
+[1;31m
+Start test 20[0m
+Code:Snippet #9
+[1;31m
+Start test 21[0m
+Code:Snippet #10
+[1;31m
+Start test 22[0m
+Code:Snippet #11
+[1;31m
+Start test 23[0m
+Code:Snippet #12
+[1;31m
+Start test 24[0m
+Code:Snippet #13
+[1;31m
+Start test 25[0m
+Code:Snippet #14
+[1;31m
+Start test 26[0m
+public static void ...
+2022-02-10
+[1;31m
+Start test 27[0m
+[1;31m
+Start test 28[0m
+class Code { ...
+2022-02-10
+[1;31m
+Start test 29[0m
+[1;31m
+Start test 30[0m
+Snippet #3
+2022-02-10
+[1;31m
+Start test 31[0m
+[1;31m
+Start test 32[0m
+Snippet #4
+2022-02-10
+[1;31m
+Start test 33[0m
+[1;31m
+Start test 34[0m
+Snippet #5
+2022-02-10
+[1;31m
+Start test 35[0m
+[1;31m
+Start test 36[0m
+Snippet #6
+2022-02-10
+[1;31m
+Start test 37[0m
+[1;31m
+Start test 38[0m
+Snippet #7
+2022-02-10
+[1;31m
+Start test 39[0m
+[1;31m
+Start test 40[0m
+Snippet #8
+2022-02-10
+[1;31m
+Start test 41[0m
+[1;31m
+Start test 42[0m
+Snippet #9
+2022-02-10
+[1;31m
+Start test 43[0m
+[1;31m
+Start test 44[0m
+Snippet #10
+2022-02-10
+[1;31m
+Start test 45[0m
+[1;31m
+Start test 46[0m
+Snippet #11
+2022-02-10
+[1;31m
+Start test 47[0m
+[1;31m
+Start test 48[0m
+Snippet #12
+2022-02-10
+[1;31m
+Start test 49[0m
+[1;31m
+Start test 50[0m
+Snippet #13
+2022-02-10
+[1;31m
+Start test 51[0m
+[1;31m
+Start test 52[0m
+Snippet #14
+2022-02-10
+[1;31m
+Start test 53[0m
+[1;31m
+Start test 54[0m
+5 Snippet #5
+6 Snippet #6
+7 Snippet #7
+8 Snippet #8
+9 Snippet #9
+10 Snippet #10
+11 Snippet #11
+12 Snippet #12
+13 Snippet #13
+14 Snippet #14
+[1;31m
+Start test 55[0m
